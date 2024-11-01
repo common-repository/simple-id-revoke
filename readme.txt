@@ -1,0 +1,1 @@
+Simple ID Revoke is a light plugin that enables wordpress admin to see the Page ID, Post ID, User ID, and etc. 
